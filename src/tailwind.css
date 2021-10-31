@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .about-bg {
+    background-image: url(./assets/news-bg.webp);
+    background-size: cover;
+    background-position: center;
+  }
+}
