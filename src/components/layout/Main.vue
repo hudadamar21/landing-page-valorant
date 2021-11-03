@@ -16,7 +16,7 @@
       <div>
         <img src="@/assets/logo-valorant.webp" class="w-14 md:w-auto" alt="logo valorant">
       </div>
-      <div class="relative flex items-center text-white">
+      <div class=" relative flex items-center text-white">
         <a @click="changeActive" class="nav-link" href="#about">About</a>
         <a @click="changeActive" class="nav-link" href="#news">News</a>
         <a @click="changeActive" class="nav-link pr-0" href="#requirements">System Requirements</a>

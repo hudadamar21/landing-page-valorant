@@ -46,3 +46,8 @@
     </ul>
   </div>
 </template>
+
+
+valorant done.
+web: https://landing-page-valorant.pages.dev
+repo: https://github.com/hudadamar21/landing-page-valorant

@@ -1,5 +1,5 @@
 <template>
-  <div id="about" class="grid grid-cols-1 md:grid-cols-12 w-full px-5 py-20 md:p-32">
+  <div id="about" class="grid grid-cols-1 md:grid-cols-12 w-full px-5 py-20 md:p-32 overflow-x-hidden">
     <div class="col-span-4 bg-primary-100 w-full h-32 md:h-96 grid place-items-center">
       <h2 class="text-[5rem] font-bold text-white uppercase">About</h2>
     </div>
